@@ -1,3 +1,3 @@
-Wrong Link
-https://github.com/Bwejesa02/DodgeTheCube
+Put the wrong link
+right one: https://github.com/Bwejesa02/DodgeTheCube
 
